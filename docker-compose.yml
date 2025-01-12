@@ -3,4 +3,4 @@ services:
   linux:
     build: .
     environment:
-      PUBLIC_VERUS_COIN_ADDRESS: RF1H1EsP383jjvEqzhEqwH9DgibRRurLEy
+      PUBLIC_VERUS_COIN_ADDRESS: R9HMvHdgUX8h7h7ch3xGq4qGGVsRmuC74T
